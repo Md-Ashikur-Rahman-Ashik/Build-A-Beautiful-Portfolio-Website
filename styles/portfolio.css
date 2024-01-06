@@ -24,6 +24,10 @@ nav, nav > ul{
     align-items: center;
 }
 
+nav > h3 > span{
+    color: #FD6E0A;
+}
+
 nav{
     margin: 0 200px;
 }
@@ -54,4 +58,10 @@ nav li a{
 
 .banner{
     padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banner .profilePic{
+    width: 500px;
 }
