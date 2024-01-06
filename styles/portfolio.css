@@ -24,8 +24,12 @@ nav, nav > ul{
     align-items: center;
 }
 
-nav > h3 > span{
-    color: #FD6E0A;
+nav{
+    margin: 0 200px;
+}
+
+.btnPrimary{
+    background-color: #FD6E0A;
 }
 
 .navTitle{
@@ -41,4 +45,13 @@ nav li{
 nav li a{
     text-decoration: none;
     color: #474747;
+}
+
+/* Header Related Styles */
+.header{
+    background-color: #FFF8F3;
+}
+
+.banner{
+    padding: 30px 30px 30px 150px;
 }
