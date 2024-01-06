@@ -63,6 +63,7 @@ nav li a{
     padding: 30px 30px 0 150px;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 
 .banner .profilePic{
@@ -80,4 +81,15 @@ nav li a{
     font-weight: 700;
     margin-top: 5px;
     margin-bottom: 20px;
+}
+
+.bannerContent{
+    max-width: 500px;
+}
+
+/* Main Section Styles */
+
+/* About Section Styles */
+.about{
+    padding: 130px;
 }
