@@ -121,3 +121,19 @@ main{
 .aboutInfo{
     text-align: center;
 }
+
+.infoTitle{
+    margin-bottom: 0;
+}
+
+.infoDescription{
+    margin-top: 0;
+}
+
+#whatIDo{
+    padding: 30px 150px;
+}
+
+.skillsContainer{
+    display: flex;
+}
