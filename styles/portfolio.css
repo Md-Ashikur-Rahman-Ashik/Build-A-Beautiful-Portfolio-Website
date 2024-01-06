@@ -102,9 +102,22 @@ nav li a{
 }
 
 /* Main Section Styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
 /* About Section Styles */
 .about{
     padding: 130px;
     margin: 130px 0;
+}
+
+.aboutInfoContainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.aboutInfo{
+    text-align: center;
 }
